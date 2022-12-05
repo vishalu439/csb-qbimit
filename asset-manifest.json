@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vishalu439.github.io/csb-qbimit/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vishalu439.github.io/csb-qbimit/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://vishalu439.github.io/csb-qbimit/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://vishalu439.github.io/csb-qbimit/static/js/runtime-main.8bea872f.js",
+    "runtime-main.js.map": "https://vishalu439.github.io/csb-qbimit/static/js/runtime-main.8bea872f.js.map",
+    "static/js/2.0fd3f829.chunk.js": "https://vishalu439.github.io/csb-qbimit/static/js/2.0fd3f829.chunk.js",
+    "static/js/2.0fd3f829.chunk.js.map": "https://vishalu439.github.io/csb-qbimit/static/js/2.0fd3f829.chunk.js.map",
+    "index.html": "https://vishalu439.github.io/csb-qbimit/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vishalu439.github.io/csb-qbimit/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0fd3f829.chunk.js.LICENSE.txt": "https://vishalu439.github.io/csb-qbimit/static/js/2.0fd3f829.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bea872f.js",
+    "static/js/2.0fd3f829.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
